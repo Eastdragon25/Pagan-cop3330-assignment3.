@@ -3,9 +3,6 @@
  *  Copyright 2021 David Pagan
  */
 
-
-package Ex41.Base;
-
 import java.io.*;
 import java.util.*;
 
